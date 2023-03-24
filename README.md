@@ -5,7 +5,7 @@ This is a simple command-line based Student Management System that allows you to
 ## Installation
 To use this program, you will need to have gcc installed on your computer. You can download it here. Once you have gcc installed, you can follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/your-repo.git
+Clone the repository: git clone https://github.com/Rkraj360/student-data-base-management-system.git
 Navigate to the directory where the files are located.
 Compile the program: gcc student_management_system.c -o student_management_system
 Run the program: ./student_management_system
